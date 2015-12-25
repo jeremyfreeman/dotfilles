@@ -10,7 +10,7 @@ Plugin 'gmarik/Vundle.vim'
 " plugins
 Plugin 'tpope/vim-fugitive'
 
-Plugin 'SirVer/ultisnips.git'
+"Plugin 'SirVer/ultisnips.git'
 "Plugin 'honza/vim-snippets.git'
 Plugin 'nvie/vim-flake8'
 Plugin 'bling/vim-airline'
