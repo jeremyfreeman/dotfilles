@@ -1,6 +1,7 @@
 - link:
         ~/.vimrc: vimrc
         ~/.vim: vim
+        ~/.emacs.d: emacs.d
 - shell:
         - git clone https://github.com/gmarik/Vundle.vim.git vim/bundle/vundle
         - vim +BundleInstall +qall

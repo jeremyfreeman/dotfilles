@@ -30,3 +30,9 @@ pip-log.txt
 vim/bundle/**
 
 vim/.netrwhist
+
+# emacs packages under package.el control
+emacs.d/elpa/**
+emacs.d/auto-save-list/**
+
+
